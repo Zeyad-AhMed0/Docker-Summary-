@@ -59,7 +59,7 @@ Whether you're containerizing a simple app or deploying production workloads, th
 
 **Zeyad Ahmed Dardeer**  
 Cloud & DevOps Engineer | Computer & Communications Engineering  
-[LinkedIn – Zeyad Ahmed](https://www.linkedin.com/in/zeyad-ahmed-5a9639356)
+[LinkedIn – Zeyad Ahmed]([https://www.linkedin.com/in/zeyad-ahmed-5a9639356](https://www.linkedin.com/in/zeyad-ahmed-%F0%9F%87%B5%F0%9F%87%B8%E2%98%81%EF%B8%8F-5a9639356/))
 
 ---
 
