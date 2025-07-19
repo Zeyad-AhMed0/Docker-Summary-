@@ -137,5 +137,3 @@ docker run -p 4000:4000 -v ${PWD}:/app my-app-dev
 * Hot Reload is possible using `nodemon` and volume mounts.
 
 📌 For real-world projects, it’s recommended to pair this with `docker-compose.yml` to manage multi-service setups easily.
-
-⬅️ Next: `04_docker_commands.md`
