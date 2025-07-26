@@ -1,4 +1,4 @@
-## 🚀 Docker + Nginx + Databases (Integrations)
+## 🚀 Docker Integrations: Nginx, MongoDB, Redis
 
 In this section, we explore how to integrate **Nginx** with your containerized applications and how to link **databases like MongoDB and Redis** using Docker. 
 
