@@ -1,0 +1,6 @@
+.env
+/node_modules
+/Docker-Summary-
+/.vscode
+/app.sh
+/file.sh
