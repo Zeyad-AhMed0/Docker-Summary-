@@ -20,17 +20,61 @@ This repository serves as a concise yet comprehensive guide to Docker, tailored 
 
 ## 📁 Repository Structure
 
-| File                        | Description                                         |
-|-----------------------------|-----------------------------------------------------|
-| `01_intro.md`              | Docker concepts, architecture, and use-cases        |
-| `02_installation.md`       | Installation steps across platforms (Linux/WSL2)    |
-| `03_images_containers.md`  | Managing images & containers with CLI               |
-| `04_dockerfile.md`         | Writing and optimizing Dockerfiles                  |
-| `05_volumes.md`            | Persistent storage using Docker volumes             |
-| `06_networking.md`         | Inter-container communication & bridge networks     |
-| `07_docker_compose.md`     | Orchestrating multi-container apps using Compose    |
-| `08_deploy.md`             | Deploying containers in production environments     |
-| `common_cmds.md`           | Most-used Docker commands as a quick reference      |
+# 🐳 Docker Summary
+
+Welcome to my Docker learning journey!  
+This repository contains a **comprehensive summary of Docker** — from basic concepts to production-level scenarios.  
+All notes are based on real hands-on experience, explained in a clean and structured way.
+
+---
+
+## 📁 Repository Structure
+
+| File                                | Description                                                                 |
+|-------------------------------------|-----------------------------------------------------------------------------|
+| `01_intro.md`                       | Docker concepts, architecture, and use-cases                                |
+| `02_installation.md`                | Installation steps across platforms (Linux/WSL2)                            |
+| `03_images_containers.md`           | Managing images & containers with CLI                                       |
+| `04_dockerfile.md`                  | Writing and optimizing Dockerfiles                                          |
+| `05_volumes.md`                     | Persistent storage using Docker volumes (bind & named)                      |
+| `06_networking.md`                  | Inter-container communication & bridge networks                             |
+| `07_docker_compose.md`              | Orchestrating multi-container apps using Compose                            |
+| `08_envs_hot_reload.md`             | Working with Environments (local/dev/prod) & Hot Reload                     |
+| `09_integrations_nginx_redis_mongo.md` | Using Docker with Nginx, MongoDB, Redis                                   |
+| `10_postgres_in_docker.md`          | Running PostgreSQL inside Docker with Laravel & Node.js apps               |
+| `11_deploy.md`                      | Deploying containers in production environments                             |
+| `12_load_balancing.md`              | Load Balancing with Nginx inside Docker                                     |
+| `13_troubleshooting.md`            | 🛠️ Real-world issues and how we solved them                                 |
+| `common_cmds.md`                    | Most-used Docker commands as a quick reference                              |
+
+---
+
+## 🚀 Projects
+
+> A dedicated folder for Docker-based hands-on projects.  
+> Currently includes a **Node.js Express API app** (with Hot Reload + Docker Compose).
+
+📁 `projects/` folder will keep growing with more mini projects covering different stacks.
+
+---
+
+## 📌 About
+
+🔧 Built using VS Code on Ubuntu/WSL2  
+📅 Timeline: July 2025  
+📚 Continuously updated as I explore more tools in the **DevOps** roadmap (Ansible, Terraform, etc.)
+
+---
+
+## 🔗 Connect with me
+
+Feel free to follow, star, or contribute to this repo.  
+If you're on a similar DevOps learning journey, let's connect on [LinkedIn](https://www.linkedin.com/in/zeyad-ahmed0).
+
+---
+
+> 🧠 *"Learning in public is the best kind of learning."*
+
 
 ---
 
